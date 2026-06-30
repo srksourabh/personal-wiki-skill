@@ -7,7 +7,7 @@ description: Build and maintain a personal knowledge base wiki. Use this skill w
 
 Multi-domain personal knowledge base with cross-domain connection discovery.
 
-**Wiki data:** `<WIKI_ROOT>` — set this to the absolute path of your wiki folder (e.g. `~/Documents/personal_wiki/`). The skill will create `raw/` and `wiki/` subfolders inside it.
+**Wiki data:** /Users/srksourabh/second-brain — set this to the absolute path of your wiki folder (e.g. `~/Documents/personal_wiki/`). The skill will create `raw/` and `wiki/` subfolders inside it.
 
 ## Commands
 
